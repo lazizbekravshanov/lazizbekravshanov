@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 - I live in a <a href="https://en.wikipedia.org/wiki/United_States" target="_blank"> country </a> just below 🇨🇦.
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lazizbek42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lazizbek42" height="30" width="40" /></a>
@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lazizbekravshanov&show_icons=true&locale=en" alt="lazizbekravshanov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazizbekravshanov&" alt="lazizbekravshanov" /></p>
-
+<hr>
 **Visitor count:** <br>
-https://profile-counter.glitch.me/lazizbekravshanov/count.svg
 ![Visitor Count](https://profile-counter.glitch.me/{lazizbekravshanov}/count.svg)
