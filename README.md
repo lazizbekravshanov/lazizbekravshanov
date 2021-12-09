@@ -50,3 +50,4 @@ Here are some ideas to get you started:
 
 **Visitor count:** <br>
 https://profile-counter.glitch.me/lazizbekravshanov/count.svg
+![Visitor Count](https://profile-counter.glitch.me/{lazizbekravshanov}/count.svg)
