@@ -48,5 +48,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazizbekravshanov&" alt="lazizbekravshanov" /></p>
 <hr>
+
 **Visitor count:** <br>
+https://profile-counter.glitch.me/ra1nbow1/count.svg
 ![Visitor Count](https://profile-counter.glitch.me/{lazizbekravshanov}/count.svg)
