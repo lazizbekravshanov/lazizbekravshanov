@@ -51,5 +51,5 @@ Here are some ideas to get you started:
 
 **Visitor count:** <br>
 <p>
-<img src="https://profile-counter.glitch.me/lazizbekravshanov/count.svg" style="text-align:center">
+<img src="https://profile-counter.glitch.me/lazizbekravshanov/count.svg" "text-align:center">
 </p>
