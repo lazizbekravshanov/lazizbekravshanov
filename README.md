@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 Reach me at **bruneluni23@gmail.com**
 
-- ⚡ Fun fact **I keep swimming.**
+- ⚡ Fun fact: **I keep swimming.**
 
 - :mortar_board: I was a June Pisciner and am student at <a href="https://42abudhabi.ae/" target="_blank"> 42 Abu Dhabi </a>
 - 🎓 I am an undergraduate student at <a href="https://www.utoledo.edu/" target="_blank"> UToledo </a>
