@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 <hr>
 
 **Visitor count:** <br>
-<p>
+<p style="text-align:center">
 <img src="https://profile-counter.glitch.me/lazizbekravshanov/count.svg" />
 </p>
