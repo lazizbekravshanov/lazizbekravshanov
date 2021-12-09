@@ -47,3 +47,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lazizbekravshanov&show_icons=true&locale=en" alt="lazizbekravshanov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazizbekravshanov&" alt="lazizbekravshanov" /></p>
+
+**Visitor count:** <br>
+https://profile-counter.glitch.me/lazizbekravshanov/count.svg
