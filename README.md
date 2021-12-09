@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I keep swimming.**
 
-- :mortar_board: I was a June Pisciner and am student at <a href="https://42abudhabi.ae/"> 42 Abu Dhabi </a>
+- :mortar_board: I was a June Pisciner and am student at <a href="https://42abudhabi.ae/" target="_blank"> 42 Abu Dhabi </a>
+- 🎓 I am an undergraduate student at <a href="https://www.utoledo.edu/" target="_blank"> UToledo </a>
 
 
-- I live in a country just below 🇨🇦.
+- I live in a <a href="https://en.wikipedia.org/wiki/United_States" target="_blank"> country </a> just below 🇨🇦.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
