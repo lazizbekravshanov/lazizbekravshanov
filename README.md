@@ -50,5 +50,6 @@ Here are some ideas to get you started:
 <hr>
 
 **Visitor count:** <br>
-https://profile-counter.glitch.me/ra1nbow1/count.svg
-![Visitor Count](https://profile-counter.glitch.me/{lazizbekravshanov}/count.svg)
+<p>
+<img src="https://profile-counter.glitch.me/lazizbekravshanov/count.svg" />
+</p>
