@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Bootstrap, Django, PostgreSQL, JavaScript.**
 
-- 📫 Reach me at **bruneluni23@gmail.com**
 
 - ⚡ Fun fact: **I keep swimming.**
 
