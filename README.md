@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lazizbekravshanov" alt="lazizbekravshanov" /></a> </p>
 
-- 🔭 I’m currently working on [hackcoming](https://github.com/lazizbekravshanov/hackcoming)
-
-- 🌱 I’m currently learning **Bootstrap, Django, PostgreSQL, JavaScript.**
+- 🌱 I’m currently learning **Bootstrap, Tailwind CSS, Django, PostgreSQL, JavaScript.**
 
 
 - ⚡ Fun fact: **I keep swimming.**
