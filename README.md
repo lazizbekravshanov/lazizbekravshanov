@@ -14,7 +14,7 @@
 - 🎓 I am an undergraduate student at <a href="https://www.utoledo.edu/" target="_blank"> UToledo </a>
 
 
-- I am based in the USA.
+- 🏴‍☠️ I am based in the USA.
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
