@@ -14,7 +14,7 @@
 - 🎓 I am an undergraduate student at <a href="https://www.utoledo.edu/" target="_blank"> UToledo </a>
 
 
-- I live in a <a href="https://en.wikipedia.org/wiki/United_States" target="_blank"> country </a> just below 🇨🇦.
+- I am based in the USA.
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
