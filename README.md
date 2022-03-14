@@ -1,5 +1,5 @@
 <h1 align="center">👋, I'm Lazizbek Ravshanov</h1>
-<h3 align="center">A back-end developer from Uzbekistan</h3>
+<h3 align="center">A developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazizbekravshanov&label=Profile%20views&color=0e75b6&style=flat" alt="lazizbekravshanov" /> </p>
 
