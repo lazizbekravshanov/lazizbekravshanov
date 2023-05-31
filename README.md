@@ -11,7 +11,6 @@
 - ⚡ Fun fact: **I keep swimming.**
 
 - :mortar_board: I was a June Pisciner and am student at <a href="https://42abudhabi.ae/" target="_blank"> 42 Abu Dhabi </a>
-- 🎓 I am an undergraduate student at <a href="https://www.utoledo.edu/" target="_blank"> UToledo </a>
 
 
 - 🏴‍☠️ I am based in the USA.
