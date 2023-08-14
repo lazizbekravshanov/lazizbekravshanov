@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lazizbekravshanov" alt="lazizbekravshanov" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap, Tailwind CSS, Django, PostgreSQL, JavaScript.**
+- 🌱 I’m currently learning **Kubernetes, Docker, Django, Jenkins, PostgreSQL, JavaScript.**
 
 
 - ⚡ Fun fact: **I keep swimming.**
@@ -13,7 +13,7 @@
 - :mortar_board: I was a June Pisciner and am student at <a href="https://42abudhabi.ae/" target="_blank"> 42 Abu Dhabi </a>
 
 
-- 🏴‍☠️ I am based in the USA.
+- 🏴‍☠️ Based in the USA.
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
