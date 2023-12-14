@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lazizbekravshanov" alt="lazizbekravshanov" /></a> </p>
 
-- 🌱 Currently learning **Kubernetes, AWS, Ansible, Terraform, Docker, Django, Jenkins, PostgreSQL, JavaScript.**
+- 🌱 Currently learning **Kubernetes, AWS, Ansible, Terraform, Docker, Django, PostgreSQL.**
 
 
 - ⚡ Fun fact: **I keep swimming.**
