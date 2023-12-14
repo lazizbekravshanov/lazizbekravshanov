@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact: **I keep swimming.**
 
-- :mortar_board: I was a June Pisciner and a student at <a href="https://42abudhabi.ae/" target="_blank"> 42 Abu Dhabi </a>
+- :mortar_board: June Pisciner and a student at <a href="https://42abudhabi.ae/" target="_blank"> 42 Abu Dhabi </a>
 
 
 - 🏴‍☠️ Based in the USA.
