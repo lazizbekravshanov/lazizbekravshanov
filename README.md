@@ -1,6 +1,6 @@
 # Lazizbek Ravshanov
 ### Software Engineer - AI/ML specialist
-[GitHub](https://github.com/lazizbekravshanov) | [LinkedIn](http://www.linkedin.com/in/lazizbekravshanov) | [Email](mailto:bruneluni23@gmail.com)
+[GitHub](https://github.com/lazizbekravshanov) | [Email](mailto:bruneluni23@gmail.com)
 
 Built 3-tier application. Areas: logistics, finance, healthcare.
 
@@ -87,13 +87,6 @@ Associate Degree in Networking**
  - Attended 5+ hackathons, contributing to projects related to network security, cloud-based solutions, and network automation. Gained practical experience in using Python and PowerShell for network scripting.
  - Completed CompTIA Network+ and Microsoft Azure Fundamentals, demonstrating proficiency in network design, implementation, and cloud computing.
 
-**University of Toledo, 2021 - 2022 <br>
-Bachelor's in Computer Science**
-
- - GPA 3.0 / 4.0
- - Organized Google Students Club on campus
- - Assisted in teaching Machine Learning and Data Structures, mentoring undergraduate students and grading projects related to ML models and algorithms.
- - Participated in university-led AI/ML hackathons, achieving top-3 placement for creating an AI-driven healthcare prediction model for early disease detection.
 
 VOLUNTARY ACTIVITIES
 - Facilitated and coordinated 3+ workshops focused on AI/ML fundamentals, hands-on coding sessions in Python, and tutorials on data preprocessing and model evaluation, with participants ranging from 50 to 200+.
