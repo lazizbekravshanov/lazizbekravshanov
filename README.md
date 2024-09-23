@@ -1,12 +1,12 @@
 # Lazizbek Ravshanov
-### Software Engineer
+### Software Engineer - AI/ML specialist
 [GitHub](https://github.com/lazizbekravshanov) | [LinkedIn](http://www.linkedin.com/in/lazizbekravshanov) | [Email](mailto:bruneluni23@gmail.com)
 
 Built 3-tier application. Areas: logistics, finance, healthcare.
 
 EXPERIENCE
 -
-**Evolve Cyber, November, 2023 – Present <br>
+**Evolve Cyber, November, 2023 – August, 2024 <br>
 DevOps Engineer & Student mentor**
 
 - Automated infrastructure provisioning using Terraform, resulting in a 30% reduction in deployment time.
