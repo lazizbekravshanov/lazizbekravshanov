@@ -1,37 +1,101 @@
-<h1 align="center">👋 I'm Lazizbek Ravshanov</h1>
-<h3 align="center">A developer from Uzbekistan</h3>
+# Lazizbek Ravshanov
+### Software Engineer
+[GitHub](https://github.com/lazizbekravshanov) | [LinkedIn](http://www.linkedin.com/in/lazizbekravshanov) | [Email](mailto:bruneluni23@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lazizbekravshanov&label=Profile%20views&color=0e75b6&style=flat" alt="lazizbekravshanov" /> </p>
+Built 3-tier application. Areas: logistics, finance, healthcare.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lazizbekravshanov" alt="lazizbekravshanov" /></a> </p>
+EXPERIENCE
+-
+**Evolve Cyber, November, 2023 – Present <br>
+DevOps Engineer & Student mentor**
 
-- 🌱 Currently learning **Kubernetes, AWS, Ansible, Terraform, Docker, Django, PostgreSQL.**
+- Automated infrastructure provisioning using Terraform, resulting in a 30% reduction in deployment time.
+- Orchestrated containerized applications with Kubernetes, ensuring high availability and scalability.
+- Implemented CI/CD pipelines with Jenkins, decreasing time-to-market for new features by 25%.
+- Collaborated with cross-functional teams to integrate security best practices into the development lifecycle.
+- Managed and optimized cloud infrastructure on AWS, reducing monthly hosting costs by 15%.
+- Implemented centralized logging using ELK Stack, improving system monitoring and issue identification.
+- Conducted security audits and implemented measures to ensure compliance with industry standards.
 
 
-- ⚡ Fun fact: **I keep swimming.**
+<br>
 
-- :mortar_board: June Pisciner and a student at <a href="https://42abudhabi.ae/" target="_blank"> 42 Abu Dhabi </a>
+**Itransition, February, 2022 – August, 2023 <br>
+Full-stack developer(Remote)**
+
+- Led end-to-end development of dynamic web applications, merging front-end (HTML, CSS, JavaScript) and back-end (Node.js, Python, Java) technologies to create seamless user interfaces and robust server-side functionalities.
+- Collaborated cross-functionally with UX/UI designers and engineers to translate complex designs into visually appealing, functional web solutions meeting client specifications.
+- Implemented code optimization and security measures, enhancing application performance and user satisfaction.
+- Contributed to agile methodologies, participating in sprint planning and continuous improvement initiatives.
+- Stayed updated on emerging technologies, integrating innovative solutions for improved product development processes.
 
 
-- 🏴‍☠️ Based in the USA.
-<hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lazizbekravshanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lazizbek" height="30" width="40" /></a>
-<a href="https://www.instagram.com/lazizbek.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lazizbek.io" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+**42 Abu Dhabi, UAE, June, 2021 – August, 2021 <br>
+Student mentor**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazizbekravshanov&show_icons=true&locale=en&layout=compact" alt="lazizbekravshanov" /></p>
+Helped new pisciners get to know with new technologies and teaching the basics of Computer Science
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lazizbekravshanov&show_icons=true&locale=en" alt="lazizbekravshanov" /></p>
+- Mentored over 500 students in Computer Science, C, and Bash, fostering a collaborative learning environment.
+- Designed and delivered workshops to enhance students' understanding of programming concepts.
+- Provided guidance on problem-solving and coding best practices, contributing to the students' academic success.
+- Reviewed code of fellow students. 2-5 PRs reviewed per day.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazizbekravshanov&" alt="lazizbekravshanov" /></p>
-<hr>
+<br>
 
-**Visitor count:** <br>
-<p align="center">
-<img src="https://profile-counter.glitch.me/lazizbekravshanov/count.svg" "text-align:center">
-</p>
+**DP World, March, 2020 – May, 2021 - Remote<br>
+AI & ML Engineer**
+
+- Developed machine learning models to improve supply chain and port operations, helping track and optimize container movements with tools like CARGOES TOS+.
+- Analyzed data to better allocate workforce resources, ensuring the right number of staff was available based on cargo volumes and operational needs.
+- Used AI technologies like computer vision for automated port security, improving safety and threat detection.
+- Worked on projects involving autonomous shipping and 5G-enabled AI, aiming to boost efficiency, cut emissions, and enhance the customer experience.
+
+<br>
+
+**Exadel, August, 2018 – February, 2020 - Remote <br>
+Machine Learning intern**
+
+Contributed to the development of an AI-driven healthcare management system, leveraging machine learning techniques to improve patient outcomes and streamline healthcare operations.
+
+- Developed machine learning models for healthcare diagnostics using Python and scikit-learn, focusing on predictive analytics to help identify high-risk patients based on historical data and clinical patterns.
+- Implemented data pipelines and preprocessed large-scale healthcare datasets, using Pandas, NumPy, and SQL, enabling efficient model training and improving data quality for more accurate predictions.
+- Collaborated with data scientists and healthcare professionals to fine-tune machine learning algorithms, resulting in a 15% improvement in the accuracy of disease risk prediction models.
+- Integrated TensorFlow and Keras to develop and deploy neural networks that analyzed patient data, optimizing real-time decision-making processes in the healthcare system.
+- Assisted in the deployment of AI models into production environments, ensuring the seamless integration of predictive models into existing healthcare workflows and monitoring their performance using ML Ops practices.
+- Engaged in continuous improvement of the AI pipeline by writing unit tests and performing model validation, achieving a 5% boost in model precision and reliability.
+- Participated in cross-functional team meetings with doctors, data engineers, and UX designers to ensure that AI/ML applications aligned with healthcare requirements and delivered user-friendly interfaces for medical professionals.
+
+<br>
+
+EDUCATION
+- 
+**Georgia Institute of Technology, Expected 2026<br>
+Master of Science in Computer Science (AI/ML Specialization)**
+
+ - Relevant Coursework: Machine Learning, Deep Learning, Artificial Intelligence, Natural Language Processing, Reinforcement Learning, Advanced Algorithms, Data Mining, Probabilistic Graphical Models.
+ - Assisting in teaching Machine Learning and Data Structures, mentoring undergraduate students and grading projects related to ML models and algorithms.
+ - Collaborating with faculty on research in computer vision and autonomous systems, applying neural networks for object detection in dynamic environments.
+ - Developing a real-time recommendation system using deep learning models, integrating TensorFlow, PyTorch, and NLP techniques to enhance personalized user experiences.
+
+**Computer Systems Institute, 2022 - 2023 <br>
+Associate Degree in Networking**
+
+ - GPA 3.50 / 4.0
+ - Represented Microsoft at the institute by conducting workshops on Azure Cloud Services, Windows Server Management, and Networking Fundamentals to help students gain hands-on experience with Microsoft technologies.
+ - Attended 5+ hackathons, contributing to projects related to network security, cloud-based solutions, and network automation. Gained practical experience in using Python and PowerShell for network scripting.
+ - Completed CompTIA Network+ and Microsoft Azure Fundamentals, demonstrating proficiency in network design, implementation, and cloud computing.
+
+**University of Toledo, 2021 - 2022 <br>
+Bachelor's in Computer Science**
+
+ - GPA 3.0 / 4.0
+ - Organized Google Students Club on campus
+ - Assisted in teaching Machine Learning and Data Structures, mentoring undergraduate students and grading projects related to ML models and algorithms.
+ - Participated in university-led AI/ML hackathons, achieving top-3 placement for creating an AI-driven healthcare prediction model for early disease detection.
+
+VOLUNTARY ACTIVITIES
+- Facilitated and coordinated 3+ workshops focused on AI/ML fundamentals, hands-on coding sessions in Python, and tutorials on data preprocessing and model evaluation, with participants ranging from 50 to 200+.
+- Provided guidance to teams at AI/ML-focused hackathons, including Startup Weekend and Data Science Bootcamps, mentoring participants on using scikit-learn, TensorFlow, and natural language processing (NLP) techniques.
+- Actively contributed to local AI meetups and online communities, promoting discussions on ethical AI, advancements in deep learning, and industry applications of AI/ML techniques.
