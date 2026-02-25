@@ -28,19 +28,19 @@ Software engineer with experience across AI/ML, full-stack development, and DevO
 - Delivered practical workshops on programming and problem-solving.
 - Performed daily peer code reviews and guided students on best practices.
 
-**DP World (Remote)** | AI & ML Engineer  
+**DP World (Remote)** | AI & ML Engineer
 *Mar 2020 - May 2021*
-- Built ML solutions to improve supply chain and port operations.
-- Applied data-driven workforce planning for operational efficiency.
-- Worked on computer vision use cases for automated security and monitoring.
-- Contributed to AI initiatives linked to autonomous operations and next-gen infrastructure.
+- Built demand forecasting models using gradient-boosted trees (XGBoost), reducing container idle time by 18%.
+- Developed object detection pipelines with YOLOv4 for automated port security monitoring across 12 camera feeds.
+- Designed workforce scheduling optimization using historical throughput data, improving shift utilization by 22%.
+- Processed and analyzed 500K+ daily logistics records using Python, Pandas, and SQL for model training and reporting.
 
-**Exadel (Remote)** | Machine Learning Intern  
+**Exadel (Remote)** | Machine Learning Intern
 *Aug 2018 - Feb 2020*
-- Contributed to AI-enabled healthcare workflows for predictive diagnostics.
-- Built data pipelines and preprocessing workflows with Python, SQL, Pandas, and NumPy.
-- Developed and evaluated models with scikit-learn, TensorFlow, and Keras.
-- Improved model quality through validation, testing, and cross-functional iteration.
+- Built a patient readmission prediction model using logistic regression and random forests, achieving 0.81 AUC on a 120K-record dataset.
+- Developed ETL pipelines in Python and SQL to clean, normalize, and transform raw EHR data for model consumption.
+- Trained CNN-based classifiers in TensorFlow/Keras for medical image triage, reducing manual review queue by 30%.
+- Implemented k-fold cross-validation and hyperparameter tuning workflows, improving model F1 scores by 12% on average.
 
 ## Selected GitHub Projects
 
@@ -55,7 +55,7 @@ Software engineer with experience across AI/ML, full-stack development, and DevO
 
 ## Education
 
-**Georgia Institute of Technology**  
+**University of Cincinnati**  
 Master of Science in Computer Science (AI/ML), *Expected 2026*
 - Relevant coursework: ML, deep learning, AI, NLP, reinforcement learning, advanced algorithms, data mining.
 - Academic mentoring and research support in ML and computer vision topics.

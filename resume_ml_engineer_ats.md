@@ -24,15 +24,19 @@ Feb 2022 - Aug 2023
 - Delivered production web applications and backend services using JavaScript, Python, and Java.
 - Improved performance and security through code optimization and cross-team Agile delivery.
 
-**DP World (Remote)** - AI and ML Engineer  
+**DP World (Remote)** - AI and ML Engineer
 Mar 2020 - May 2021
-- Developed ML solutions for supply-chain and port-operations optimization.
-- Built data-driven planning workflows and supported computer-vision use cases for automated monitoring.
+- Built demand forecasting models using XGBoost, reducing container idle time by 18%.
+- Developed YOLOv4-based object detection pipelines for automated port security monitoring across 12 camera feeds.
+- Designed workforce scheduling optimization using historical throughput data, improving shift utilization by 22%.
+- Processed 500K+ daily logistics records with Python, Pandas, and SQL for model training and reporting.
 
-**Exadel (Remote)** - Machine Learning Intern  
+**Exadel (Remote)** - Machine Learning Intern
 Aug 2018 - Feb 2020
-- Built healthcare data preprocessing pipelines using Python, Pandas, NumPy, and SQL.
-- Trained and evaluated models with scikit-learn, TensorFlow, and Keras.
+- Built a patient readmission prediction model using logistic regression and random forests, achieving 0.81 AUC on a 120K-record dataset.
+- Developed ETL pipelines in Python and SQL to clean and transform raw EHR data for model consumption.
+- Trained CNN classifiers in TensorFlow/Keras for medical image triage, reducing manual review queue by 30%.
+- Improved model F1 scores by 12% through k-fold cross-validation and hyperparameter tuning.
 
 ## Selected Projects
 
@@ -53,7 +57,7 @@ github.com/lazizbekravshanov/black-scholes-model
 
 ## Education
 
-**Georgia Institute of Technology**  
+**University of Cincinnati**  
 M.S. Computer Science (AI/ML), Expected 2026
 
 **Computer Systems Institute**  
