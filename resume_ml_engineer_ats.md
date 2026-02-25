@@ -6,10 +6,11 @@ Email: bruneluni23@gmail.com | GitHub: github.com/lazizbekravshanov
 ML-focused software engineer with experience delivering AI/ML solutions, backend services, and cloud infrastructure across logistics and healthcare domains. Hands-on with Python, scikit-learn, TensorFlow, SQL, AWS, Kubernetes, Docker, Terraform, and CI/CD.
 
 ## Core Skills
-- ML/DL: supervised learning, CNNs, feature engineering, model evaluation, TensorFlow, Keras, scikit-learn
-- Data: Python, Pandas, NumPy, SQL
+- ML/DL: supervised learning, CNNs, feature engineering, model evaluation, TensorFlow, Keras, scikit-learn, XGBoost
+- Data: Python, Pandas, NumPy, SQL, ETL pipelines
+- Backend: JavaScript, TypeScript, Python, Java, Next.js, Django, REST APIs
 - MLOps/Cloud: Docker, Kubernetes, Terraform, Jenkins, AWS, ELK
-- Engineering: backend services, APIs, testing, Agile
+- Tools: Git, Prisma, PostgreSQL, Zod, Agile/Scrum
 
 ## Professional Experience
 
@@ -19,10 +20,12 @@ Nov 2023 - Aug 2024
 - Managed Kubernetes workloads and Jenkins CI/CD pipelines, reducing release turnaround time by 25%.
 - Optimized AWS usage and reduced infrastructure cost by 15%.
 
-**Itransition (Remote)** - Full-Stack Developer  
+**Itransition (Remote)** - Full-Stack Developer
 Feb 2022 - Aug 2023
-- Delivered production web applications and backend services using JavaScript, Python, and Java.
-- Improved performance and security through code optimization and cross-team Agile delivery.
+- Built and shipped 3 client-facing web applications using JavaScript, Python, and Java across React and Spring Boot stacks.
+- Reduced API response times by 40% through query optimization, caching, and payload restructuring.
+- Implemented role-based access control and input validation to address OWASP top-10 vulnerabilities.
+- Collaborated in Agile sprints with cross-functional teams of 6-8 engineers and designers.
 
 **DP World (Remote)** - AI and ML Engineer
 Mar 2020 - May 2021
@@ -40,20 +43,19 @@ Aug 2018 - Feb 2020
 
 ## Selected Projects
 
-**Emotion Detection CNN**  
-github.com/lazizbekravshanov/emotion-detection-cnn
-- Built a CNN pipeline for image-based emotion classification.
-- Implemented training and evaluation workflow for model comparison.
+**FleetSight** | github.com/lazizbekravshanov/fleetsight
+- FMCSA carrier compliance platform searching 4.4M carriers with inspection, crash, and safety scoring data.
+- Built with Next.js 14, TypeScript, Prisma, PostgreSQL. Integrates FMCSA, Socrata, and NHTSA APIs.
 
-**Face Detection Project**  
-github.com/lazizbekravshanov/face-detection-project
-- Developed a computer-vision workflow for face detection.
-- Structured dataset-to-inference pipeline for repeatable experimentation.
+**ShopMule** | github.com/lazizbekravshanov/shopmule
+- Multi-tenant SaaS for truck repair shop operations: repair orders, time tracking, billing, and dashboards.
+- Built with Next.js 14, TypeScript, Prisma, PostgreSQL, NextAuth.js, and Zod. RBAC with 4 roles.
 
-**Black-Scholes Model**  
-github.com/lazizbekravshanov/black-scholes-model
-- Implemented quantitative finance logic for option pricing calculations.
-- Validated pricing behavior across parameter changes.
+**Emotion Detection CNN** | github.com/lazizbekravshanov/emotion-detection-cnn
+- CNN-based emotion recognition trained on FER-2013 with TensorFlow/Keras, data augmentation, and dropout.
+
+**Face Detection Project** | github.com/lazizbekravshanov/face-detection-project
+- Computer vision pipeline for real-time face detection with structured dataset-to-inference workflow.
 
 ## Education
 
