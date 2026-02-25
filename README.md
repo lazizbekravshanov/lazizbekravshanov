@@ -55,10 +55,8 @@ Software engineer with experience across AI/ML, full-stack development, and DevO
 
 ## Education
 
-**University of Cincinnati**  
-Master of Science in Computer Science (AI/ML), *Expected 2026*
-- Relevant coursework: ML, deep learning, AI, NLP, reinforcement learning, advanced algorithms, data mining.
-- Academic mentoring and research support in ML and computer vision topics.
+**University of Cincinnati**
+B.S. in IT - Data Technologies
 
 **Computer Systems Institute**  
 Associate Degree in Networking, *2022 - 2023*

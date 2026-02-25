@@ -57,8 +57,8 @@ github.com/lazizbekravshanov/black-scholes-model
 
 ## Education
 
-**University of Cincinnati**  
-M.S. Computer Science (AI/ML), Expected 2026
+**University of Cincinnati**
+B.S. in IT - Data Technologies
 
 **Computer Systems Institute**  
 Associate Degree in Networking, 2022 - 2023 | GPA: 3.50/4.0
