@@ -1,17 +1,15 @@
 # Lazizbek Ravshanov
-Software Engineer | AI/ML and Cloud
+Software Engineer
 
 [GitHub](https://github.com/lazizbekravshanov) | [Email](mailto:bruneluni23@gmail.com)
 
-Software engineer with experience across AI/ML, full-stack development, and DevOps. Built and supported production systems in logistics, healthcare, and finance-related domains.
+Software engineer with experience in full-stack development and DevOps.
 
 ## Skills
 
-- **ML/DL:** Python, scikit-learn, TensorFlow, Keras, XGBoost, CNNs, feature engineering, model evaluation
-- **Data:** Pandas, NumPy, SQL, ETL pipelines
-- **Backend:** JavaScript, TypeScript, Python, Java, Next.js, Django, REST APIs
-- **MLOps/Cloud:** Docker, Kubernetes, Terraform, Jenkins, AWS, ELK Stack
-- **Tools:** Git, Prisma, PostgreSQL, Agile/Scrum
+- **Backend:** JavaScript, TypeScript, Python, Next.js, REST APIs
+- **Cloud/DevOps:** Docker, Kubernetes, Terraform, Jenkins, AWS, ELK Stack
+- **Tools:** Git, Prisma, PostgreSQL, SQL
 
 ## Experience
 
@@ -24,26 +22,6 @@ Software engineer with experience across AI/ML, full-stack development, and DevO
 - Built centralized logging and monitoring workflows with ELK Stack.
 - Supported secure SDLC practices with audits and security controls.
 
-**Itransition (Remote)** | Full-Stack Developer
-*Feb 2022 - Aug 2023*
-- Built and shipped 3 client-facing web applications using JavaScript, Python, and Java across React and Spring Boot stacks.
-- Reduced API response times by 40% through query optimization, caching, and payload restructuring.
-- Implemented role-based access control and input validation to address OWASP top-10 vulnerabilities.
-- Collaborated in Agile sprints with cross-functional teams of 6-8 engineers and designers.
-
-**DP World (Remote)** | AI & ML Engineer
-*Mar 2020 - May 2021*
-- Built demand forecasting models using gradient-boosted trees (XGBoost), reducing container idle time by 18%.
-- Developed object detection pipelines with YOLOv4 for automated port security monitoring across 12 camera feeds.
-- Designed workforce scheduling optimization using historical throughput data, improving shift utilization by 22%.
-- Processed and analyzed 500K+ daily logistics records using Python, Pandas, and SQL for model training and reporting.
-
-**Exadel (Remote)** | Machine Learning Intern
-*Aug 2018 - Feb 2020*
-- Built a patient readmission prediction model using logistic regression and random forests, achieving 0.81 AUC on a 120K-record dataset.
-- Developed ETL pipelines in Python and SQL to clean, normalize, and transform raw EHR data for model consumption.
-- Trained CNN-based classifiers in TensorFlow/Keras for medical image triage, reducing manual review queue by 30%.
-- Implemented k-fold cross-validation and hyperparameter tuning workflows, improving model F1 scores by 12% on average.
 
 ## Selected Projects
 
