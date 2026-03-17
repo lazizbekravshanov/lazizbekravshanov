@@ -57,17 +57,6 @@ Software engineer with experience across AI/ML, full-stack development, and DevO
 - Role-based access control (Admin, Manager, Tech, Viewer) with full repair order workflow.
 - Includes TV leaderboard dashboard, REST API with webhook support, and Docker deployment.
 
-**[emotion-detection-cnn](https://github.com/lazizbekravshanov/emotion-detection-cnn)** — CNN-based emotion recognition from facial images. Trained on FER-2013 dataset using TensorFlow/Keras with data augmentation and dropout regularization.
-
-**[face-detection-project](https://github.com/lazizbekravshanov/face-detection-project)** — Computer vision pipeline for real-time face detection. Structured dataset-to-inference workflow for repeatable experimentation.
-
-**[black-scholes-model](https://github.com/lazizbekravshanov/black-scholes-model)** — Option pricing calculator implementing the Black-Scholes model. Validated pricing behavior across parameter sweeps.
-
-**[stock-analysis-data-science](https://github.com/lazizbekravshanov/stock-analysis-data-science)** — Data science exploration for stock market analysis using Pandas, NumPy, and visualization libraries.
-
-**[high-load-service](https://github.com/lazizbekravshanov/high-load-service)** — Backend service focused on scalability and load handling.
-
-**[pharmtech2](https://github.com/lazizbekravshanov/pharmtech2)** — Healthcare/pharmacy domain application.
 
 ## Education
 

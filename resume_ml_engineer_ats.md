@@ -51,11 +51,6 @@ Aug 2018 - Feb 2020
 - Multi-tenant SaaS for truck repair shop operations: repair orders, time tracking, billing, and dashboards.
 - Built with Next.js 14, TypeScript, Prisma, PostgreSQL, NextAuth.js, and Zod. RBAC with 4 roles.
 
-**Emotion Detection CNN** | github.com/lazizbekravshanov/emotion-detection-cnn
-- CNN-based emotion recognition trained on FER-2013 with TensorFlow/Keras, data augmentation, and dropout.
-
-**Face Detection Project** | github.com/lazizbekravshanov/face-detection-project
-- Computer vision pipeline for real-time face detection with structured dataset-to-inference workflow.
 
 ## Education
 
